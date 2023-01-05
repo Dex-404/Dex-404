@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a Frontend Developer as well as a Software developer.<br>A Sophomore at London Metropolitan University as a Software Engineering Student.<br>NodeJS and JAVA are my primary languages and I'm comfortable with .NET Core and Python.</h3>
+<h3 align="center">I'm a Frontend Developer as well as a Software developer.<br>A Sophomore at Kingston University London as a Software Engineering Student.<br>NodeJS and JAVA are my primary languages and I'm comfortable with .NET Core and Python.</h3>
 
 ###
 
