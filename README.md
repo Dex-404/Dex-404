@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I'm a A Software Engineer and a Full-Stack Developer graduated as BEng (Hon) Software Engineeing with a First Class.<br>NodeJS and JAVA are my primary programing languages and I'm comfortable with .NET Core and Python.</h3>
+<h3 align="center">I'm a A Software Engineer and a Full-Stack Developer graduated as BEng (Hons) Software Engineeing with a First Class.<br>NodeJS and JAVA are my primary programing languages and I'm comfortable with .NET Core and Python.</h3>
 
 ###
 
